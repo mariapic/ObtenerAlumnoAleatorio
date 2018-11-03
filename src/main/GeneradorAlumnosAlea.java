@@ -8,8 +8,9 @@ import datos.Alumnos;
 public class GeneradorAlumnosAlea {
 
 	static Random rd;
+	static Scanner sc;
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+		sc = new Scanner(System.in);
 		rd = new Random();
 		
 		System.out.println("Introduce grupo:");

@@ -40,6 +40,39 @@ public class Alumnos {
 			arrayAlumnos[25] = "SÁNCHEZ BORREGO, Daniel";
 			arrayAlumnos[26] = "SEGURA GÓMEZ, Andrés";
 			arrayAlumnos[27] = "SOTOMAYOR NAVARRETE, José María";
+			
+		} else if (grupo.equals("M21")) {
+			arrayAlumnos = new String[29];
+			
+			arrayAlumnos[0] = "BARO CARCAJONA, Alejandro Carlos";
+			arrayAlumnos[1] = "CABRERA GUAILLAS, Cristhian Andrés";
+			arrayAlumnos[2] = "CAGUANA CHICAIZA, Luis Rosendo";
+			arrayAlumnos[3] = "CEBAS BAÑOS, Víctor";
+			arrayAlumnos[4] = "DIEZ SOBRINO, Cristina";
+			arrayAlumnos[5] = "DONCEL IGLESIAS, Álvaro";
+			arrayAlumnos[6] = "ESTEBAN, Carlos";
+			arrayAlumnos[7] = "FERNÁNDEZ OLIVA, Martín";
+			arrayAlumnos[8] = "GARDE JIMENEZ, Juan Antonio";
+			arrayAlumnos[9] = "HUEDO DEL CASTILLO, Alejandro Andrés";
+			arrayAlumnos[10] = "HUEDO DEL CASTILLO, Gonzalo";
+			arrayAlumnos[11] = "LEGUINA CID, Gonzalo";
+			arrayAlumnos[12] = "LLEDÓ GOITIA, Gonzalo";
+			arrayAlumnos[13] = "MARTÍNEZ INGELMO, Ricardo";
+			arrayAlumnos[14] = "MEGÍA OSORIO, Jorge";
+			arrayAlumnos[15] = "MORENO VALDALISO, Javier";
+			arrayAlumnos[16] = "MURUZABAL ISHIGETANI, Javier Yechoen";
+			arrayAlumnos[17] = "NAVARRO MANZANO, Sergio";
+			arrayAlumnos[18] = "NOTARIO CARRETERO, Juan";
+			arrayAlumnos[19] = "OLMEDO ORTIZ, Fernando";
+			arrayAlumnos[20] = "ORDÁS FERNÁNDEZ, Raúl";
+			arrayAlumnos[21] = "PÉREZ GÓMEZ, Andrés";
+			arrayAlumnos[22] = "PIÑA MARTÍN, Álvaro";
+			arrayAlumnos[23] = "ROSERO CAPELO, Steven Alberto";
+			arrayAlumnos[24] = "SABBAGH PASTOR, Yoseph Daniel";
+			arrayAlumnos[25] = "SÁNCHEZ DÍAZ, Miguel";
+			arrayAlumnos[26] = "SANTA CRUZ ESTEBÁN, Álvaro";
+			arrayAlumnos[27] = "VILLARREAL GUILLO, Darío";
+			arrayAlumnos[28] = "WENG, Jincheng";
 		}
 
 	}
